@@ -1,0 +1,5 @@
+interface:
+  display_name: "Handoff with memories"
+  short_description: "Handoff that carries memories, instruction files and session rules"
+policy:
+  allow_implicit_invocation: false
